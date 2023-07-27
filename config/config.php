@@ -1,0 +1,3 @@
+<?php if(substr($_SERVER["REQUEST_URI"], -10) == "config.php"){header("Location:./");}; 
+$data['mikhmon'] = array ('1'=>'mikhmon<|<vitech','mikhmon>|>q6akmZyTqqVm');
+$data['sma2skh'] = array ('1'=>'sma2skh!192.168.223.1','sma2skh@|@cracker7','sma2skh#|#rqpmpmFobmJk','sma2skh%sma2skh','sma2skh^sma2skh.net','sma2skh&Rp','sma2skh*082329085577','sma2skh(','sma2skh)','sma2skh=10','sma2skh@!@disable','sma2skh#!#');
